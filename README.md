@@ -1,4 +1,4 @@
-# E-commerce_Shoppers'_Behaviour_Understanding
+<img width="264" alt="image" src="https://github.com/shib1111111/E-commerce_Shopper-s_Behaviour_Understanding/assets/96659370/faa4bdd5-94ae-4769-ab6e-254cbc7bd0bc"># E-commerce_Shoppers'_Behaviour_Understanding
 In this project, we aim to analyze the customer behavior of an e-commerce company using the session data of its users for a year. The main objective is to predict whether a user has made a purchase or not, based on other attributes of the user.
 
 ## Data Description
@@ -9,6 +9,16 @@ The evaluation metric for this project is the mean F1-score, which is a measure 
 
 ## Submission Format
 The submission file should be in CSV format and contain a header with the following columns: "id" and "Made_Purchase". The "id" column should contain the unique identifiers for each user in the test set, and the "Made_Purchase" column should contain the predicted values (True/False) for whether the user made a purchase or not.
+
+## Sample Screenshots
+
+
+<table align="center">
+  <tr>
+    <td><img src="screenshots/output.jpg" alt="Page" width="600" height="400"/></td>
+  </tr>
+</table>
+
 
 ## Conclusion
 By analyzing the customer behavior of the e-commerce company using the session data of its users, we can gain valuable insights into their preferences and shopping habits. By accurately predicting whether a user will make a purchase or not, the e-commerce company can optimize their marketing strategies and improve their overall performance.
