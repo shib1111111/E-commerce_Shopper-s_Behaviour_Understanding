@@ -1,4 +1,4 @@
-<img width="264" alt="image" src="https://github.com/shib1111111/E-commerce_Shopper-s_Behaviour_Understanding/assets/96659370/faa4bdd5-94ae-4769-ab6e-254cbc7bd0bc"># E-commerce_Shoppers'_Behaviour_Understanding
+# E-commerce_Shoppers'_Behaviour_Understanding
 In this project, we aim to analyze the customer behavior of an e-commerce company using the session data of its users for a year. The main objective is to predict whether a user has made a purchase or not, based on other attributes of the user.
 
 ## Data Description
