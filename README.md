@@ -15,7 +15,7 @@ The submission file should be in CSV format and contain a header with the follow
 
 <table align="center">
   <tr>
-    <td><img src="screenshots/screenshot.jpg" alt="Page" width="600" height="400"/></td>
+    <td><img src="screenshots/screenshot.jpg" alt="Page" width="1200" height="400"/></td>
   </tr>
 </table>
 
