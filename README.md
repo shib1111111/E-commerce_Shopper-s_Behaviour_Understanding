@@ -1,5 +1,5 @@
 # E-commerce_Shoppers'_Behaviour_Understanding
-In this project, we aim to analyze the customer behavior of an e-commerce company using the session data of its users for a year. The main objective is to predict whether a user has made a purchase or not, based on other attributes of the user.
+In this project, I aim to analyze the customer behavior of an e-commerce company using the session data of its users for a year. The main objective is to predict whether a user has made a purchase or not, based on other attributes of the user.
 
 ## Data Description
 The data contains several attributes related to the user and their session on the e-commerce website. The target variable is "Made_purchase", which is a binary indicator of whether the user made a purchase during the year or not. The data has been collected by non-experts, so there might be some percentage of error in some columns.
@@ -15,7 +15,7 @@ The submission file should be in CSV format and contain a header with the follow
 
 <table align="center">
   <tr>
-    <td><img src="screenshots/output.jpg" alt="Page" width="600" height="400"/></td>
+    <td><img src="screenshots/screenshot.jpg" alt="Page" width="600" height="400"/></td>
   </tr>
 </table>
 
