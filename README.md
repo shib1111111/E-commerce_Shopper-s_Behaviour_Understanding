@@ -23,6 +23,9 @@ The submission file should be in CSV format and contain a header with the follow
 ## Conclusion
 By analyzing the customer behavior of the e-commerce company using the session data of its users, we can gain valuable insights into their preferences and shopping habits. By accurately predicting whether a user will make a purchase or not, the e-commerce company can optimize their marketing strategies and improve their overall performance.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 Thank you for viewing this repo! Feel free to reach out with any questions or feedback.
 
